@@ -12,3 +12,27 @@ https://www.flaticon.com/
 
 Tools
 https://angrytools.com/
+
+Clean Code - PHP
+https://github.com/jupeter/clean-code-php
+
+Code Review Developer Guide 
+https://google.github.io/eng-practices/
+
+Design Patterns
+https://sourcemaking.com/design_patterns/
+
+Debugging
+https://www.codecademy.com/resources/blog/how-to-debug-your-code/
+
+Interview School
+https://interviews.school/
+
+PageSpeed Insights (Google For Developers)
+https://pagespeed.web.dev/
+
+SEO
+https://moz.com/beginners-guide-to-seo
+
+Scrum-Sprints
+https://www.atlassian.com/agile/scrum/sprints
