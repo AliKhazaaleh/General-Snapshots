@@ -1,0 +1,11 @@
+Just copy your ssh key to the server using the below 2 lines
+
+1) ssh 192.168.6.* mkdir -p .ssh
+
+2) cat .ssh/id_rsa.pub | ssh 192.168.6.* 'cat >> .ssh/authorized_keys'
+
+
+please run these from your PC, not from the server
+
+replace 192.168.6.* with your server IP
+
