@@ -1,0 +1,56 @@
+• Phase 1:
+Input and output(getline , #include<stream> stringstream , scanf , printf , leading zeros  )
+Data Type Ranges , overflow , Double Vs Float , Casting
+basic ( 1e8 , 1e-4 , #define , typedef )
+string , substring , palindrome , generate all substring
+Frequency Arrays 
+Cumulative Sum 
+#include <cctype> 
+#include <cmath> (fmod , floor , ceil , sqrt , cbrt ) problem function power
+struct , pair
+Add Hoc , Implementation and brute force
+STL(vector, map, set , priority_queue , dequeu )
+#include <algorithm>
+(lower_bound , upper_bound , next_permutation , prev_permutation , sort , reverse , find
+count , fill , max , min , min_element , max_element)
+
+
+• Phase 2:
+Two Pointers
+direction array
+Recursion ( fibonacci numbers , direction )
+Recursion (greedy max.min path sum , flood fill )
+Binary search
+Number_Theory
+prime number
+Divisors
+Factorization
+GCD and LCM
+
+
+Complexity Analysis
+Backtracking
+Complete Search Bitmasks
+bitset
+
+• Phase 3:
+greedy
+Classic Dynamic Programming
+Backtraacking
+Graph Traversal
+Dynamic Programming
+DP on tree
+BFS, DFS and Dijkstra
+Bellman and Warshall
+Euler and Topological Sort
+SCC and Biconnectivity
+Flows
+Disjoint set and Minimum spanning trees
+Dijkstra
+Binary Search and Ternary Search
+String matching
+Suffix Array and Trie
+Binary Indexed tree and Segment tree
+RMQ and LCA
+Heavy Light Decomposition
+expected value
