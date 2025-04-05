@@ -13,11 +13,15 @@ https://www.flaticon.com/
 Tools
 https://angrytools.com/
 
+
 Clean Code - PHP
 https://github.com/jupeter/clean-code-php
 
 Code Review Developer Guide 
 https://google.github.io/eng-practices/
+
+OOP 
+https://github.com/Devinterview-io/oop-interview-questions
 
 Design Patterns
 https://sourcemaking.com/design_patterns/
