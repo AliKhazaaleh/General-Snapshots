@@ -1,3 +1,7 @@
+/*
+    Date: 2015
+*/
+
 // Recursive Binary Search
 bool binarySearch(int arr[], int value, int start, int end) {
     if (start > end) return false;
