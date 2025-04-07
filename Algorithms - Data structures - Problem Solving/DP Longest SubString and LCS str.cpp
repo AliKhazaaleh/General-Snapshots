@@ -1,3 +1,6 @@
+/* 
+	Date: 2015
+*/
 #include <iostream>
 #include <string>
 #include <algorithm>
